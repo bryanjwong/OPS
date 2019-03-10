@@ -7,4 +7,4 @@ Car Arduino: Must press gas or brake accordingly. If correct, white LED flashes 
              
 Other features: Button debouncing with capacitor and pull down resistor. Button algorithm to only register change in button                   state.
              
-Designed and programmed from scratch. January 2018.
+Designed and programmed from scratch. January 2019.
