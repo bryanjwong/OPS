@@ -1,6 +1,5 @@
 // also works for 12.4 V - 11.76 V
 
-//==retardmode==//
 #include "pitches.h"
 
 #define SPEAKER 11
